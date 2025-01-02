@@ -1,0 +1,15 @@
+{
+  "name": "fortinet-fortisiem",
+  "description": "This box contains the Fortinet FortiSIEM VM device.",
+  "versions": [
+    {
+      "version": "VER",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "file://HOME/boxes/fortinet-fortisiem-VER.box"
+        }
+      ]
+    }
+  ]
+}
